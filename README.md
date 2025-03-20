@@ -1,2 +1,2 @@
-# Inform-tica
+# Informtica
 atividade de desenvolvimento na aula
