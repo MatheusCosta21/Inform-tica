@@ -17,6 +17,9 @@ Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Pasta.pdf
 
 #03 - Dados abertos dos alunos estrangeiros
 
-Segue o Link: 
+Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade_2%C2%B0%20Semestre%202023%20Matheus%20Amaral.pdf
+
+
+
 
 
