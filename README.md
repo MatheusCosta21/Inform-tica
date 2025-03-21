@@ -1,4 +1,4 @@
-# Informtica
+# Informatica
 
 #01 - Apresentação pessoal
 
