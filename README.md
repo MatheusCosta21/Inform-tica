@@ -19,6 +19,7 @@ Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Pasta.pdf
 
 Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade_2%C2%B0%20Semestre%202023%20Matheus%20Amaral.pdf
 
+![image](https://github.com/user-attachments/assets/8530be7e-aefa-4a85-8fc5-ae4bd2adeb52)
 
 
 
