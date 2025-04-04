@@ -51,6 +51,6 @@ Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Pre%C3%A7o
 ![PowerbBIcapture](https://github.com/user-attachments/assets/cf9ba6dc-8690-466a-86de-9fbacc8be052)
 
 
-Segue o Link: !
+Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/DADOS%20ABERTOS%20-%20ALUNOS%20ESTRANGEIROS.pbix
 
 
