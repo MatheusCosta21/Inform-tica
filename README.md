@@ -25,7 +25,7 @@ Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Quantidade
 
 #04 - Dados abertos dos alunos estrangeiros - POWERBI
 
-Segue o link: 
+Segue o link: https://github.com/MatheusCosta21/Inform-tica/blob/main/DADOS%20ABERTOS%20-%20ALUNOS%20ESTRANGEIROS.pbix
 
 
 
