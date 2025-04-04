@@ -39,5 +39,9 @@ Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Pre%C3%A7o
 
 #06 - Atividade para nota - Dados abertos Preço dos combustíveis
 
+
+![PowerbBIcapture](https://github.com/user-attachments/assets/cf9ba6dc-8690-466a-86de-9fbacc8be052)
+
+
 Segue o Link: 
 
