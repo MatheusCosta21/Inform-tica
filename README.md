@@ -35,6 +35,13 @@ Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Quantidade
 
 Segue o link: (https://github.com/MatheusCosta21/Inform-tica/blob/main/DADOS%20ABERTOS%20-%20ALUNOS%20ESTRANGEIROS.pbix)
 
+
+
+#05 - Atividade para nota - Dados abertos Preços dos combustíveis
+
+
+Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Pre%C3%A7os%20semestrais%20-%20AUTOMOTIVOS_2024.01%20INFORM%C3%81TICA%201.pdf
+
 ![PRINT 1](https://github.com/user-attachments/assets/7d13afe9-c4b2-4ff4-8f2d-3d7283d02f2a)
 
 
@@ -42,12 +49,6 @@ Segue o link: (https://github.com/MatheusCosta21/Inform-tica/blob/main/DADOS%20A
 
 
 ![PRINT 3](https://github.com/user-attachments/assets/951925a7-ee51-4b5f-8e84-11539017eef5)
-
-
-#05 - Atividade para nota - Dados abertos Preços dos combustíveis
-
-
-Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Pre%C3%A7os%20semestrais%20-%20AUTOMOTIVOS_2024.01%20INFORM%C3%81TICA%201.pdf
 
 
 
