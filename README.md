@@ -35,7 +35,13 @@ Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Quantidade
 
 Segue o link: (https://github.com/MatheusCosta21/Inform-tica/blob/main/DADOS%20ABERTOS%20-%20ALUNOS%20ESTRANGEIROS.pbix)
 
+![PRINT 1](https://github.com/user-attachments/assets/7d13afe9-c4b2-4ff4-8f2d-3d7283d02f2a)
 
+
+![PRINT 2](https://github.com/user-attachments/assets/51ae77bc-9b39-43e7-bb9e-bf6076063afd)
+
+
+![PRINT 3](https://github.com/user-attachments/assets/951925a7-ee51-4b5f-8e84-11539017eef5)
 
 
 #05 - Atividade para nota - Dados abertos Preços dos combustíveis
