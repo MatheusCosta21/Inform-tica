@@ -61,3 +61,15 @@ Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Pre%C3%A7o
 Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/DADOS%20ABERTOS%20-%20ALUNOS%20ESTRANGEIROS.pbix
 
 
+
+07# - Meus Certificados FATEC
+
+![Contabilidade Empresarial](https://github.com/user-attachments/assets/9fb81a46-0e00-4aa1-bc1d-8bb6108d0eb6)
+
+![Comunicação Empresarial](https://github.com/user-attachments/assets/8f4ec80d-d83f-4b0b-8f8d-a1888367f8cc)
+
+![Comunicação Empresarial](https://github.com/user-attachments/assets/b57c1ce1-a168-46ce-b4b1-5a98f83241df)
+
+
+
+
