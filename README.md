@@ -68,8 +68,6 @@ Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/DADOS%20AB
 
 ![Comunicação Empresarial](https://github.com/user-attachments/assets/8f4ec80d-d83f-4b0b-8f8d-a1888367f8cc)
 
-![Comunicação Empresarial](https://github.com/user-attachments/assets/b57c1ce1-a168-46ce-b4b1-5a98f83241df)
-
 
 
 
