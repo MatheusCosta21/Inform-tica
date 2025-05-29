@@ -63,7 +63,9 @@ Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/DADOS%20AB
 
 #07 - Regressão Linear
 
-Segue o Link: 
+![image](https://github.com/user-attachments/assets/79b5dc77-7820-4174-aca8-0c64ba139bba)
+
+Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Matheus%20Amaral.xlsx
 
 
 
