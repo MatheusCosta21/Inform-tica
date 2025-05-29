@@ -22,7 +22,7 @@ Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Pasta.pdf
 
 #03 - Dados abertos dos alunos estrangeiros
 
-
+Segue o link: (https://github.com/MatheusCosta21/Inform-tica/blob/main/DADOS%20ABERTOS%20-%20ALUNOS%20ESTRANGEIROS.pbix)
 Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Quantidade%20de%20alunos%20estrangeiros%20por%20nacionalidade_2%C2%B0%20Semestre%202023%20Matheus%20Amaral.pdf
 
 
@@ -30,14 +30,9 @@ Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Quantidade
 
 
 
-#04 - Dados abertos dos alunos estrangeiros - POWERBI
 
 
-Segue o link: (https://github.com/MatheusCosta21/Inform-tica/blob/main/DADOS%20ABERTOS%20-%20ALUNOS%20ESTRANGEIROS.pbix)
-
-
-
-#05 - DADOS ABERTOS - VARIAÇÃO DE PREÇOS DO COMBUSTÍVEL NO BRASIL
+#04 - DADOS ABERTOS - VARIAÇÃO DE PREÇOS DO COMBUSTÍVEL NO BRASIL
 
 
 Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Pre%C3%A7os%20semestrais%20-%20AUTOMOTIVOS_2024.01%20INFORM%C3%81TICA%201.pdf
@@ -50,7 +45,6 @@ Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Pre%C3%A7o
 
 ![PRINT 3](https://github.com/user-attachments/assets/951925a7-ee51-4b5f-8e84-11539017eef5)
 
-#06 - DADOS ABERTOS - VARIAÇÃO DE PREÇOS DO COMBUSTÍVEL NO BRASIL
 
 ![PowerbBIcapture](https://github.com/user-attachments/assets/cf9ba6dc-8690-466a-86de-9fbacc8be052)
 
@@ -58,14 +52,14 @@ Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Pre%C3%A7o
 Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/DADOS%20ABERTOS%20-%20ALUNOS%20ESTRANGEIROS.pbix
 
 
-#07 - REGRESSÃO LINEAR
+#05 - REGRESSÃO LINEAR
 
 ![image](https://github.com/user-attachments/assets/79b5dc77-7820-4174-aca8-0c64ba139bba)
 
 Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Matheus%20Amaral.xlsx
 
 
-#08 - ANÁLISES DAS DUAS ATIVIDADES
+#06 - ANÁLISES DAS DUAS ATIVIDADES
 
 📊 Projeto 1: Venda de Sorvete Objetivo Criar um modelo de regressão linear simples para prever a quantidade de sorvetes vendidos com base na temperatura do dia. Ferramentas usadas: -Excel -Python (Google Colab com Gemini) Resultado: No Excel, foi usada a função de tendência linear. No Python, , o modelo fez o mesmo processo, só que com visualizações gráficas e avaliação do desempenho com métricas.
 
@@ -85,7 +79,7 @@ Ferramentas usadas:
 
 -Excel -
 
-09# - MEUS CERTIFICADOS - FATEC
+07# - MEUS CERTIFICADOS - FATEC
 
 ![image](https://github.com/user-attachments/assets/04319f90-27d7-4356-a4ab-c8b1cf81d63a)
 
