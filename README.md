@@ -61,8 +61,13 @@ Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Pre%C3%A7o
 Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/DADOS%20ABERTOS%20-%20ALUNOS%20ESTRANGEIROS.pbix
 
 
+#07 - Regressão Linear
 
-07# - Meus Certificados FATEC
+Segue o Link: 
+
+
+
+08# - Meus Certificados FATEC
 
 ![Contabilidade Empresarial](https://github.com/user-attachments/assets/9fb81a46-0e00-4aa1-bc1d-8bb6108d0eb6)
 
