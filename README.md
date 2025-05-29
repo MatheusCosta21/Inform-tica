@@ -37,7 +37,7 @@ Segue o link: (https://github.com/MatheusCosta21/Inform-tica/blob/main/DADOS%20A
 
 
 
-#05 - DADOS ABERTOS - ALUNOS ESTRANGEIROS NO BRASIL
+#05 - DADOS ABERTOS - VARIAÇÃO DE PREÇOS DO COMBUSTÍVEL NO BRASIL
 
 
 Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Pre%C3%A7os%20semestrais%20-%20AUTOMOTIVOS_2024.01%20INFORM%C3%81TICA%201.pdf
