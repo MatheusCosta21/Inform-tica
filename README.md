@@ -70,11 +70,19 @@ Segue o Link: https://github.com/MatheusCosta21/Inform-tica/blob/main/Matheus%20
 
 
 08# - Meus Certificados FATEC
+
+
 ![image](https://github.com/user-attachments/assets/b3f32ef9-ad12-4a46-9024-3404649a1498)
+
+
 
 ![image](https://github.com/user-attachments/assets/9a02ddcd-4afe-449f-a462-0c2f883397b4)
 
+
+
 ![image](https://github.com/user-attachments/assets/b4033e3a-5f53-4b71-997b-392743377088)
+
+
 
 ![image](https://github.com/user-attachments/assets/5ee42e4f-6122-4b8a-8279-1620e3140b3d)
 
