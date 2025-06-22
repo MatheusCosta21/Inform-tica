@@ -119,3 +119,23 @@ CONFIRA O FUNCIONAMENTO ATRAVÉS DO VÍDEO
 
 SEGUE O lINK:https://github.com/MatheusCosta21/Inform-tica/commit/3320fc80dd49718b815abb0665a330c9247c1653#diff-4a86dd056f3f606ad8cdcbf4f22f3762c7fdc2efe98f9ea40811d3c7bd3884d0
 
+
+
+🚀 Mais uma conquista com Power Apps! 💡
+
+Agora também desenvolvi um novo aplicativo onde consigo:
+✅ Cadastrar ordens de produção
+✅ Gerenciar fornecedores
+✅ Registrar clientes
+
+Tudo isso de forma integrada, prática e totalmente personalizada para atender às necessidades do processo produtivo. É incrível ver como a tecnologia pode facilitar a gestão e trazer mais eficiência para o dia a dia! 🏭📲
+
+![image](https://github.com/user-attachments/assets/ade60e60-88e8-40aa-af72-3d2745eaae96)
+
+![image](https://github.com/user-attachments/assets/a3b9cbbb-cc8f-4555-b055-f98c08b38e5d)
+
+![image](https://github.com/user-attachments/assets/c7cd9ed8-5252-4586-9afa-2e0e551c338e)
+
+
+
+
