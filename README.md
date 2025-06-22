@@ -93,4 +93,25 @@ Ferramentas usadas:
 ![image](https://github.com/user-attachments/assets/5ee42e4f-6122-4b8a-8279-1620e3140b3d)
 
 
+🎉 Conquista no Power Apps! 🚚📦
+
+
+Acabei de desenvolver meu próprio aplicativo no Power Apps voltado para logística! Com ele, agora consigo registrar de forma prática e eficiente todas as entregas realizadas:
+✅ Dados dos clientes
+✅ Data de saída e de entrega
+✅ Informações sobre avarias nos produtos
+
+Foi um ótimo aprendizado e um passo importante para otimizar processos e melhorar o controle logístico. 💻📲
+Muito feliz com o resultado! 🚀
+
+![image](https://github.com/user-attachments/assets/6ec6d2e2-a46f-4068-a5a5-8602ce966664)
+
+![image](https://github.com/user-attachments/assets/c3f664c3-70a8-444f-9db3-151df7852175)
+
+![image](https://github.com/user-attachments/assets/be3b0516-fa3f-4d99-bf14-441ade2d2072)
+
+![image](https://github.com/user-attachments/assets/7d56e711-397b-41d7-8543-01a8648d83b5)
+
+![image](https://github.com/user-attachments/assets/caf414e7-a0e7-4214-b3a1-0c1e27b27eb4)
+
 
