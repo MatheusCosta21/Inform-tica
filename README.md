@@ -115,3 +115,7 @@ Muito feliz com o resultado! 🚀
 ![image](https://github.com/user-attachments/assets/caf414e7-a0e7-4214-b3a1-0c1e27b27eb4)
 
 
+CONFIRA O FUNCIONAMENTO ATRAVÉS DO VÍDEO 
+
+SEGUE O lINK:https://github.com/MatheusCosta21/Inform-tica/commit/3320fc80dd49718b815abb0665a330c9247c1653#diff-4a86dd056f3f606ad8cdcbf4f22f3762c7fdc2efe98f9ea40811d3c7bd3884d0
+
