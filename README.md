@@ -140,3 +140,8 @@ Tudo isso de forma integrada, prática e totalmente personalizada para atender �
 ![image](https://github.com/user-attachments/assets/440481ab-3ac6-4ca2-be7d-d081ac6f02c3)
 
 
+AVALIAÇÃO 26/06/2025
+
+![image](https://github.com/user-attachments/assets/572e1654-e0fa-490d-baa5-fa8ec38192b5)
+
+
