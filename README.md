@@ -142,6 +142,5 @@ Tudo isso de forma integrada, prática e totalmente personalizada para atender �
 
 AVALIAÇÃO 26/06/2025
 
-![image](https://github.com/user-attachments/assets/572e1654-e0fa-490d-baa5-fa8ec38192b5)
 
 
