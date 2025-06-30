@@ -144,4 +144,5 @@ AVALIAÇÃO 26/06/2025
 
 ![image](https://github.com/user-attachments/assets/e570b107-7c47-4021-a9fb-5043fdc5f294)
 
+![image](https://github.com/user-attachments/assets/dcd8b01f-fac0-47a1-bffe-8cc97cae454b)
 
