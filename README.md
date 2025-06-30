@@ -146,3 +146,4 @@ AVALIAÇÃO 26/06/2025
 
 ![image](https://github.com/user-attachments/assets/dcd8b01f-fac0-47a1-bffe-8cc97cae454b)
 
+SEGUE O LINK: https://github.com/MatheusCosta21/Inform-tica/blob/main/Matheus.aval..pbix
